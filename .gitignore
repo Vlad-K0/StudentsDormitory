@@ -41,3 +41,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/data_source_mapping.xml
+/.idea/dataSources.xml
+/.idea/gradle.xml
+/.idea/misc.xml
